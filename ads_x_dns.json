@@ -1,0 +1,12 @@
+{
+    "Ads": [
+        {
+            "on_off_ads": "off",
+            "banner_type": "admob",
+            "inters_type": "admob",
+            "admob_banner": "ca-app-pub-7843624678800551/8809164249",
+            "admob_inters": "ca-app-pub-7843624678800551/6183000904",
+            "interval_inters": 1
+        }
+    ]
+}
